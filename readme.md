@@ -1,1 +1,1 @@
-git add readme.md
+git merge dev
